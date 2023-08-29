@@ -1,4 +1,3 @@
-print("shivag")
-a = "shiva"
-b = "kumar"
-print(a+b)
+a = 1
+b = 2
+print(a==b)
